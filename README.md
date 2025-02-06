@@ -1,2 +1,0 @@
-# proyectcal
-calculadora para interese
